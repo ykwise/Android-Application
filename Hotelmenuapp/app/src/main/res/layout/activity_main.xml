@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/download"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/T1"
+        style="bold"
+        android:layout_width="215dp"
+        android:layout_height="27dp"
+        android:background="@color/white"
+        android:text="HOTEL MENU APP
+"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.464"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="33dp" />
+
+    <CheckBox
+        android:id="@+id/c1"
+        style="bold"
+        android:layout_width="58dp"
+
+        android:layout_height="20dp"
+        android:layout_marginEnd="183dp"
+        android:background="@color/white"
+        android:text="burger"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toStartOf="@+id/c2"
+        tools:layout_editor_absoluteY="135dp" />
+
+    <CheckBox
+        android:id="@+id/c3"
+        style="bold"
+        android:layout_width="39dp"
+        android:layout_height="38dp"
+        android:background="@color/white"
+        android:text="TEA"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="63dp"
+        tools:layout_editor_absoluteY="205dp" />
+
+    <CheckBox
+        android:id="@+id/c2"
+        style="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:text="Pizza"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="306dp"
+        tools:layout_editor_absoluteY="130dp" />
+
+    <CheckBox
+        android:id="@+id/c4"
+        style="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:text="Coffee"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="306dp"
+        tools:layout_editor_absoluteY="216dp" />
+
+    <Button
+        android:id="@+id/b1"
+        style="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:text="Submit"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="188dp"
+        tools:layout_editor_absoluteY="290dp" />
+
+    <TextView
+        android:id="@+id/t2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Menu Details"
+        android:textSize="20dp"
+        android:background="@color/white"
+        android:textColor="@android:color/holo_red_dark"
+        style="bold"
+        tools:layout_editor_absoluteX="140dp"
+        tools:layout_editor_absoluteY="406dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

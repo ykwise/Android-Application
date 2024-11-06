@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891050272161",
+    "project_id": "sdcdemo-e1ca8",
+    "storage_bucket": "sdcdemo-e1ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891050272161:android:2bf6c2cb69c5109d6357e0",
+        "android_client_info": {
+          "package_name": "com.yeswanthdevarasetti.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNp1XDdiAgUyoopM_ZpNHakazPuBv8M6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

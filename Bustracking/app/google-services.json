@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851402196573",
+    "project_id": "bustracking-77a57",
+    "storage_bucket": "bustracking-77a57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851402196573:android:4ff77df30fd185fc662fb4",
+        "android_client_info": {
+          "package_name": "com.yeswanthdevarasetti.bustracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmOSWkgyFnQqPj7YIrThYs3CHyqehsw70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
