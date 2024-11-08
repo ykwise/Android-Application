@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423493705868",
+    "project_id": "bustrackingsystem-15ab6",
+    "storage_bucket": "bustrackingsystem-15ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423493705868:android:a1c35b0c0b3c45c85d1ba9",
+        "android_client_info": {
+          "package_name": "com.palaniappan.thillainathan.casestudy5_driverapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJCLJZzHBKp9_0n84FTMIjk4y9-YIfFZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

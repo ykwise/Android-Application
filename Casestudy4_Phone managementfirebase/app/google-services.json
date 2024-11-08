@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841210230853",
+    "project_id": "proj1-e1f94",
+    "storage_bucket": "proj1-e1f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841210230853:android:62bba27a4cdb0eabe40b2c",
+        "android_client_info": {
+          "package_name": "com.palaniappan.thillainathan.cs3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5TOI2J0QtDiu03xds9AzTzPMTsKvSTgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
